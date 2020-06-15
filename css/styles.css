@@ -1,0 +1,110 @@
+body{
+  background-color: #ffe5ab;
+  text-align: center;
+  position: relative;
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+h1{
+  font-size: 565%;
+  color: #222831;
+  margin-top: 50px;
+  font-family: 'Sofia', cursive;
+}
+
+h2{
+  margin: 50px auto;
+  font-size: 40px;
+  color: #40514E;
+  font-weight: bold;
+}
+
+p{
+  font-size: 120%;
+}
+
+hr{
+    border: dotted #333333 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+
+}
+
+.intro{
+  font-size: 30px;
+  color: #00005c;
+}
+
+.top-container{
+  padding-top: 100px;
+  color: #2b2024;
+  position: relative;
+}
+
+.profilepic{
+  margin-top: 50px;
+  width: 25%;
+}
+
+.python-pic{
+  width: 25%;
+  float: left;
+  margin-right: 300px;
+}
+
+.html-pic{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.desc1{
+  clear: left;
+  margin-top: 100px;
+}
+
+.desc2{
+  clear: right;
+  margin-top: 100px;
+}
+
+.btn{
+  text-decoration: none;
+  color: #2b2024;
+}
+
+.bottom-container{
+  background-color: #b49c73;
+  padding: 50px 0 20px;
+}
+
+a{
+  text-decoration: none;
+  color: #2b2024;
+  margin: 30px auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 20px;
+}
+
+a:hover{
+  color:#801336;
+}
+
+.contact-me{
+  margin: 30px auto;
+  font-size: 20px;
+}
+
+.copyright{
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
